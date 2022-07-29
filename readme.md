@@ -3,6 +3,8 @@
 - 😄 My name is: Phanuphong manopkawee
 - ⚡ Student id: 63364772
 - 🔭 I'm currently studying on Faculty of Engineering.
+- 🧑‍💻 My interest career in the future : Software Engineer
+- 🌎 Special interest in computer engineering : AI
 
 ## Developer Tech
 
@@ -30,7 +32,19 @@
 
 <a href="#">
     <img src="svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:6px 4px">
-  </a> 
+  </a>
+
+<a href="#">
+    <img src="svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:6px 4px">
+  </a>
+
+<a href="#">
+    <img src="svg/dev/languages/c.svg" alt="c" style="vertical-align:top; margin:6px 4px">
+  </a>
+
+<a href="#">
+    <img src="svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:6px 4px">
+  </a>
 
 </P>
 
@@ -48,9 +62,6 @@
 
 ## Devices / Manufacturers
 <p align="left">
-<a href="#">
-    <img src="svg/devices/mac.svg" alt="mac" style="vertical-align:top; margin:6px 4px">
-  </a>
 
 <a href="#">
     <img src="svg/devices/pc.svg" alt="pc" style="vertical-align:top; margin:6px 4px">
