@@ -1,10 +1,5 @@
 ### Hi there 👋 Nice to see u.
 
-- 😄 My name is: Phanuphong manopkawee
-- ⚡ Student id: 63364772
-- 🔭 I'm currently studying on Faculty of Engineering.
-- 🧑‍💻 My interest career in the future : Software Engineer
-- 🌎 Special interest in computer engineering : AI
 
 ## Developer Tech
 
